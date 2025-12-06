@@ -252,7 +252,7 @@ def generate(model, model_name, system_prompt, user_prompt, temperature):
             print(f"Fail to generate response with error: {e}")
             sleep(10)
 ```
-### 4.6 Windows直接安装vllm失败的解决方案：下载: 适用于 Linux 的 Windows 子系统
+### 4.6 Windows直接安装vllm失败的解决方案：下载适用于 Linux 的 Windows 子系统
 
 **安装指令**
 ```bash
