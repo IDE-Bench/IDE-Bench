@@ -257,7 +257,7 @@ def generate(model, model_name, system_prompt, user_prompt, temperature):
             sleep(10)
 ```
 ### 4.6 Windows直接安装vllm失败的解决方案：下载适用于 Linux 的 Windows 子系统
-
+倘若遇到Windows系统给install vllm报错的问题，可以通过下载适用于Linux的子系统解决。
 **安装指令**
 ```bash
 wsl --install
