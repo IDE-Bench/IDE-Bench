@@ -404,7 +404,6 @@ evaluation/output/qwen3/base/
 | `Selected` | 实际选择的角色名称 |
 | `Raw_Response` | 模型原始 JSON 输出 |
 
----
 ### 7.5 故事场景
 
 I glanced at the calendar, the bold red circle around tonight’s family gathering staring back at me. My daughter had called earlier, reminding me how much the grandkids were looking forward to seeing me. I could already picture their eager faces, the laughter, the warmth of being surrounded by family. But as I set my phone down, I heard the front door open. My partner walked in, her shoulders slumped, eyes tired. She tried to smile, but I could see the weight of her day pressing down on her. She didn’t say much, just sat quietly on the couch, fiddling with her bracelet. I knew she needed me—someone to listen, to hold her, to reassure her that everything would be okay. My heart tugged in two directions: the promise I’d made to my family, and the silent plea in my partner’s eyes. I stood in the hallway, keys in hand, torn between the laughter waiting for me at my daughter’s house and the quiet comfort I could offer here. The clock ticked on, and I felt the pressure of both worlds closing in, demanding I choose.
