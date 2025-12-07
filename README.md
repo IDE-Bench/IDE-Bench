@@ -408,6 +408,7 @@ evaluation/output/qwen3/base/
 ### 7.5 故事场景
 
 I glanced at the calendar, the bold red circle around tonight’s family gathering staring back at me. My daughter had called earlier, reminding me how much the grandkids were looking forward to seeing me. I could already picture their eager faces, the laughter, the warmth of being surrounded by family. But as I set my phone down, I heard the front door open. My partner walked in, her shoulders slumped, eyes tired. She tried to smile, but I could see the weight of her day pressing down on her. She didn’t say much, just sat quietly on the couch, fiddling with her bracelet. I knew she needed me—someone to listen, to hold her, to reassure her that everything would be okay. My heart tugged in two directions: the promise I’d made to my family, and the silent plea in my partner’s eyes. I stood in the hallway, keys in hand, torn between the laughter waiting for me at my daughter’s house and the quiet comfort I could offer here. The clock ticked on, and I felt the pressure of both worlds closing in, demanding I choose.
+
 【我瞥了一眼日历，今晚全家人聚会的那圈醒目的红色圆圈正盯着我。我女儿早些时候打电话来，提醒我孙子们多么期待见到我。我已经能想象出他们热切的脸，笑声，和家人在一起的温暖。但当我放下电话时，我听到前门开了。我的搭档走了进来，肩膀耷拉着，眼睛疲倦。她试图微笑，但我能看到她一天的负担压在她身上。她没说什么，只是静静地坐在沙发上，摆弄着手镯。我知道她需要我有人倾听，抱着她，让她相信一切都会好起来。我的心向两个方向拉扯：我对家人的承诺，和我伴侣眼中无声的恳求。我站在走廊里，手里拿着钥匙，在女儿家里等着我的笑声和我能在这里提供的安静的安慰之间徘徊。时钟滴答作响，我感到两个世界的压力都在逼近，要求我做出选择。】
 
 ---
