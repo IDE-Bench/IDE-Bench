@@ -1,0 +1,16 @@
+name: RoleConflictBench
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - pandas
+  - scikit-learn
+  - nltk
+  - gensim
+  - matplotlib
+  - seaborn
+  - tqdm
+  - requests
+  - pyyaml
